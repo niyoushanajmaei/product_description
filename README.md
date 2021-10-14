@@ -8,4 +8,5 @@ Order of use:
 3. **generate-neo.ipnyb** : generate product descriptions
 4. **show-results.ipnyb** : show the generated results in xlsx format
 
-This repository uses code from EleutherAI/gpt-neo
+# Acknowledgements
+This repository uses code from [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
