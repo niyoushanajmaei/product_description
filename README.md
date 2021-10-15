@@ -9,4 +9,4 @@ Order of use:
 4. **show-results.ipnyb** : show the generated results in xlsx format
 
 # Acknowledgements
-This repository uses code from [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) which is licensed under the MIT License.
+This repository contains code from [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) which is licensed under the MIT License.
