@@ -1,3 +1,7 @@
+
+- [Report(.pdf)](https://github.com/niyoushanajmaei/product_description/blob/master/reports/Report.pdf)
+- [Presentation(.pptx)](https://github.com/niyoushanajmaei/product_description/blob/master/reports/Presentation.pptx)
+
 # Product Description Generator
 
 Fine-tune and use GPT-Neo to generate product descriptions.
